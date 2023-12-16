@@ -10,3 +10,7 @@ After production, I discovered that A6 and A7 can't be used for digital IOs, so 
 ## Dependencies
 * https://github.com/hulkco/Nano_33/tree/master
 * rfm12b symbol from ...??
+
+## Pictures
+![front](resources/temperature_front.png)
+![back](resources/temperature_back.png)
