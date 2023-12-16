@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Arduino")(type "Legacy")(uri "/home/edd/KiCad/Libraries/Nano_33/Nano_33/Nano_33-cache.lib")(options "")(descr ""))
+  (lib (name "RFM12b")(type "Legacy")(uri "/home/edd/KiCad/Libraries/rfm12b/rfm12b.lib")(options "")(descr ""))
+)
